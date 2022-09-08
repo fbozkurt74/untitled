@@ -6,7 +6,7 @@ fun main() {
     val number3 = 10
     val sum = number2 + number3
     println(sum)
-
+//ggh
 
 }
 
